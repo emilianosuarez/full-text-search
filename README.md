@@ -4,7 +4,7 @@
 PHP Framework For Web Artisans
 </p>
 
-<h2 style="text-align: center"> Main Master </h2>
+<h2 style="text-align: center"> Full Text Search </h2>
 <h3 style="text-align: center">( Crud Generator )</h3>
 <p style="text-align: center">
 Main Master is a CRUD generator for Laravel projects. This project was created to make it easier for developers to create Laravel projects. This project is built with Laravel 11 and Bootstrap 5.
@@ -39,7 +39,7 @@ Main Master is a CRUD generator for Laravel projects. This project was created t
 ```bash
 # Clone the repository
 $ git clone https://github.com/emilianosuarez/minutes-search.git {your-project-name}
-$ cd minutes-search
+$ cd {your-project-name}
 $ composer install
 $ cp .env.example .env
 $ php artisan key:generate

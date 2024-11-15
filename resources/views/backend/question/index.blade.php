@@ -22,7 +22,7 @@
                                     <thead>
                                     <tr>
                                         <th class="w-0">No</th>
-                                        <th>Pertanyaan</th>
+                                        <th>Question</th>
                                         <th>Menu</th>
                                         <th class="text-center">Action</th>
                                     </tr>
